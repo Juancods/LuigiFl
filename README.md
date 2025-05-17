@@ -7,4 +7,4 @@
 
 ## 💻 Ferramentas que eu utilizo:
 
-[![My Skills](https://skillicons.dev/icons?i=notion,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=notion,figma,discord)](https://skillicons.dev)
