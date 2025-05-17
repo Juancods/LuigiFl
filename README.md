@@ -8,5 +8,3 @@
 ## 💻 Ferramentas que eu utilizo:
 
 [![My Skills](https://skillicons.dev/icons?i=notion,figma)](https://skillicons.dev)
-
-Contact me on my [Instagram](https://www.instagram.com/_.gabrielalmeida_/)
